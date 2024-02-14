@@ -12,7 +12,7 @@ To use this project, follow these steps:
   git clone git@github.com:lCesarl/suedkurier-webscraper.git
   cd my-project
   pip install -r requirements.txt
-  ython main.py
+  python main.py
 ```
 ## Screenshots
 
