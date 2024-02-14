@@ -1,0 +1,6 @@
+build
+error_logs
+output
+local_storage.json
+profiles.json
+sent_articles.json

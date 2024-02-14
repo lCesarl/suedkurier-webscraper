@@ -1,0 +1,4 @@
+botasaurus==3.0.3
+beautifulsoup4==4.12.3
+requests==2.31.0
+requests-toolbelt==1.0.0
