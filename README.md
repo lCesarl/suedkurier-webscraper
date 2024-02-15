@@ -14,7 +14,3 @@ To use this project, follow these steps:
   pip install -r requirements.txt
   python main.py
 ```
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/q7pYPkQ/Bild-14-02-24-um-23-48.jpg)
-
